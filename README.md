@@ -1,0 +1,2 @@
+# data-mining-classification
+The goal of the project is to increase familiarity with the classification packages, available in R to do data mining analysis on real-world problems. Several different classification methods were used on the given Life Expectancy dataset. The dataset was obtained from the Wikipedia website. The continent column was added as per the requirements to be used as class label. kNN, Support Vector Machine, C4.5 and RIPPER were the classification methods used on the data set.
