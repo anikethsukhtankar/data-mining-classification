@@ -20,11 +20,12 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 The main project folder contains the following files:
-
+```
           - Project1_Classification.R
           - Project1_Classification.xlsx
 	  - Project1_Classification_Report.pdf
           - Readme.txt
+```
 
 
 REQUIREMENTS
